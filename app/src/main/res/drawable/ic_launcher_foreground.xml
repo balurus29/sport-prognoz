@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Мяч на фоне растущего графика -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:strokeColor="#2EE59D"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M30,72 L44,58 L54,64 L74,40" />
+    <path
+        android:fillColor="#2EE59D"
+        android:pathData="M66,38 L78,36 L76,48 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,40 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0" />
+    <path
+        android:fillColor="#0E1420"
+        android:pathData="M42,36 L45.5,38.5 L44.2,42.6 L39.8,42.6 L38.5,38.5 Z" />
+</vector>
